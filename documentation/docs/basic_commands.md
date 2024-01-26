@@ -13,3 +13,9 @@ disable
 ```
 enable
 ```
+
+## Enregistrer la configuration sur la mémoire
+- Afin de retrouver la configuration lors du redémarrage de l'équipement, on enregistrer les modifications apportées avec la commande suivante :
+```
+write memory
+```
