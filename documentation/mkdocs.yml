@@ -3,3 +3,4 @@ theme:
   name: material
 nav:
   - Introduction: "index.md"
+  - Ping: cisco/ping_commands.md
