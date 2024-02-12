@@ -3,4 +3,4 @@ theme:
   name: material
 nav:
   - Introduction: "index.md"
-  - Commandes de base: basic_commands.md
+  - Commandes de base: cisco/basic_commands.md
