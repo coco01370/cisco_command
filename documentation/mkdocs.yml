@@ -3,3 +3,4 @@ theme:
   name: material
 nav:
   - Introduction: "index.md"
+  - Sécurité: cisco/security_commands.md
