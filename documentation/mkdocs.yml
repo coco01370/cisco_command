@@ -3,3 +3,5 @@ theme:
   name: material
 nav:
   - Introduction: "index.md"
+  - Routeur:
+    - Interfaces: cisco/routeur/interface_commands.md
