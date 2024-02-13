@@ -6,5 +6,8 @@ nav:
   - Cisco Discovery Protocol (CDP): cisco/cdp_commands.md
   - Commandes de base: cisco/basic_commands.md
   - DHCP: cisco/dhcp_commands.md
+  - LLDP: cisco/lldp_commands.md
   - Ping: cisco/ping_commands.md
   - Sécurité: cisco/security_commands.md
+  - Routeur:
+    - Interfaces: cisco/routeur/interface_commands.md
