@@ -3,6 +3,7 @@ theme:
   name: material
 nav:
   - Introduction: "index.md"
+  - Cisco Discovery Protocol (CDP): cisco/cdp_commands.md
   - Commandes de base: cisco/basic_commands.md
   - DHCP: cisco/dhcp_commands.md
   - Ping: cisco/ping_commands.md
