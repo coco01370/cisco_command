@@ -14,6 +14,7 @@ nav:
     - Routage inter-vlan: cisco/routeur/intervlan_commands.md
   - Switch: 
     - Management: cisco/switch/switch_management.md
+    - STP: cisco/switch/stp_commands.md
     - VLAN: cisco/switch/vlan_commands.md
     - VLAN Natif: cisco/switch/native_vlan_commands.md
     - VLAN Trunking Protocol (VTP): cisco/switch/vtp_commands.md
