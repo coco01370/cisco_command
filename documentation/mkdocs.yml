@@ -3,5 +3,8 @@ theme:
   name: material
 nav:
   - Introduction: "index.md"
+  - Commandes de base: cisco/basic_commands.md
+  - Ping: cisco/ping_commands.md
+  - Sécurité: cisco/security_commands.md
   - Routeur:
     - Interfaces: cisco/routeur/interface_commands.md
