@@ -16,3 +16,4 @@ nav:
     - Management: cisco/switch/switch_management.md
     - VLAN: cisco/switch/vlan_commands.md
     - VLAN Natif: cisco/switch/native_vlan_commands.md
+    - VLAN Trunking Protocol (VTP): cisco/switch/vtp_commands.md
