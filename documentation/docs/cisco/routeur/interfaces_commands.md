@@ -53,6 +53,24 @@ conf t
         no ip add
 ```
 
+## Créer une loopback
+- Commande normale :
+```
+interface loopback 1
+    ip address ... ...
+```
+- Commande raccourci :
+```
+int loop 1
+    ip add ... ...
+```
+- Exemple :
+```
+conf t
+    int loop 1
+        ip add 1.0.0.1 255.255.255.255
+```
+
 ## Commandes de débogage
 - Afficher le status des interfaces ainsi que leur adresse IP.
 - Commande normale
